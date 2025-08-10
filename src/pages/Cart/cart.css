@@ -1,0 +1,33 @@
+.listofproducts{
+    min-height: 100vh;
+    
+    
+}
+.productInCart{
+    background-color: white;
+    display: flex;
+   width: 90%;;
+    height: 340px;
+    padding: 10px;
+    border-radius: 10px;
+    padding-bottom: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);    
+}
+.productsinorder{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+   
+   
+    border-radius: 10px;
+   
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);    
+}
+.xyz{
+    
+    height: 125px;
+    width: 300px;
+    padding-top: 10px;
+   
+   
+}
