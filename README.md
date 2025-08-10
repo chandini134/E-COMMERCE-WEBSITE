@@ -1,4 +1,5 @@
 ----React E-Commerce Website-----
+
 A front-end React e-commerce application that allows users to:
 
 Browse products from an API.
