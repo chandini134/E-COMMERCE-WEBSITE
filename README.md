@@ -1,4 +1,4 @@
----- ** React E-Commerce Website ** -----
+---- **React E-Commerce Website** -----
 
 A front-end React e-commerce application that allows users to:
 
@@ -16,19 +16,19 @@ Persist cart data even after refreshing.
 
 
 
---- Home Page
+--- **Home Page**
 
 Displays a list of products fetched from API.
 
 Responsive layout for desktop and mobile.
 
----Product Details Page
+--- **Product Details Page**
 
 Shows detailed product info (title, description, image, price).
 
 Option to Add to Cart.
 
----- Cart Page
+---- **Cart Page** 
 
 Displays all added products.
 
@@ -36,7 +36,7 @@ Quantity Tracking → Adding same product again increases its quantity.
 
 Remove Item → Decreases quantity or removes completely if quantity = 1.
 
------Tech Stack
+----- **Tech Stack**
 
 React – Front-end UI.
 
