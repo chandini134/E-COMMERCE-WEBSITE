@@ -36,6 +36,41 @@ Quantity Tracking → Adding same product again increases its quantity.
 
 Remove Item → Decreases quantity or removes completely if quantity = 1.
 
+-----Tech Stack
+
+React – Front-end UI.
+
+React Router DOM – Page routing.
+
+Axios – API requests.
+
+Bootstrap / Custom CSS – Styling.
+
+localStorage – Data persistence.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Order Summary → Shows per-item total and overall total.
 
 Persistent Storage → Uses localStorage to store cart data.
