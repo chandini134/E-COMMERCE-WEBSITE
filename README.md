@@ -17,16 +17,19 @@ Persist cart data even after refreshing.
 
 
 --- Home Page
+
 Displays a list of products fetched from API.
 
 Responsive layout for desktop and mobile.
 
 ---Product Details Page
+
 Shows detailed product info (title, description, image, price).
 
 Option to Add to Cart.
 
 ---- Cart Page
+
 Displays all added products.
 
 Quantity Tracking → Adding same product again increases its quantity.
